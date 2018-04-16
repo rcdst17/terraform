@@ -1,0 +1,8 @@
+https://www.chef.io/chef/get-chef/
+https://www.terraform.io/intro/getting-started/build.html
+https://www.terraform.io/docs/configuration/terraform.html
+https://www.terraform.io/docs/backends/types/s3.html
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/finding-an-ami.html#finding-an-ami-console
+https://docs.aws.amazon.com/cli/latest/userguide/cli-ec2-keypairs.html
+https://linuxacademy.com/howtoguides/posts/show/topic/13922-a-complete-aws-environment-with-terraform
+https://books.google.com/books?id=xIauw5xWTO8C&pg=PA169&lpg=PA169&dq=create+key+query+parameter+aws&source=bl&ots=8VkT30YiBj&sig=xFFBiHCxYGnXesliyvwnX85r6Qc&hl=en&sa=X&ved=0ahUKEwj71YGSvr3aAhUJGKwKHX9fDtMQ6AEIKTAA#v=onepage&q=create%20key%20query%20parameter%20aws&f=false
